@@ -4,7 +4,7 @@ Let's break down the use case I have provided:
 
 a) Structured Query Language implies there is a structure to the commands we will call upon, and indeed SQL commands are comprised of various clauses (SELECT, FROM, WHERE etc.).
 We will take a look at them in the coming modules.
-There is a fixed order in which these clauses are written and an order for back end execution of these clauses, which lends the Querying Language structure.
+There is a fixed order in which these clauses are written and an order for the back-end execution of these clauses, which lends the Querying Language structure.
 
 b) Scripting in SQL for Data Analytics has three main purposes:
   1) DDL(Data Definition Language): Used to create the structure of the Table, things like parent dataset/database, name, number and datatypes of the columns, metadata, indexes and partitions/segments; or alter the structure once defined; or even remove the entire table. 
